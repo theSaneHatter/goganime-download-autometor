@@ -1,1 +1,1 @@
-# goganime-download-autometer
+# goganime-download-automator
